@@ -1,7 +1,6 @@
 {
   "name": "projekcibaduyut",
   "version": "1.1.4",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -75,7 +74,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chossopian/projekcibaduyut.git"
+    "url": "https://github.com/chossopian/projekcibaduyut.git"
   },
   "author": "",
   "license": "ISC",
